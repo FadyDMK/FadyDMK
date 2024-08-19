@@ -19,4 +19,4 @@
   [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/fadi.damak)
 </div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fadydmk&theme=dark" alt="fadydmk" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=fadydmk&theme=dark" alt="fadydmk" align="center"/></p>
