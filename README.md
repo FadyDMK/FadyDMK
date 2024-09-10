@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fady</h1>
-<h3 align="center">A Full Stack Developer From Tunisia</h3>
+<h3 align="center">A Software Developer From Tunisia</h3>
 
 # 💫 About Me:
 🔭 I’m currently working on my portfolio website<br>🌱 I’m currently learning PassportJs<br>⚡ Looking for an internship!
